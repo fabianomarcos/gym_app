@@ -17,7 +17,7 @@ export function HomeHeader() {
           Olá
         </Text>
         <Heading color="$gray100" fontSize="$md">
-          Arthur Rios
+          Fabiano Marcos
         </Heading>
       </VStack>
 
